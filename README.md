@@ -40,8 +40,8 @@
 - **Martian Drainage Network Analysis** (University of Punjab)  
   - Used MOLA data and ArcGIS to model Martian surface hydrology.  
 
-%### **💻 Open-Source Contributions**  
-%*(Add links to GitHub repos if available!)*  
+### **💻 Open-Source Contributions**  
+*(https://github.com/AroojFaryad/solar-qs-analyzer/tree/main)*  
 
 ---
 
