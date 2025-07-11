@@ -1,8 +1,8 @@
 # 👋 Hi, I'm **Arooj Faryad**  
 ### **Astrophysics Researcher | Python & Data Science | Science Communicator**  
-📍 **Potsdam, Germany** | 🌐 [Website](https://your-website-here) | 📧 faryad.qaisar@yahoo.com  
+📍 **Potsdam, Germany** | 🌐 [Website](https://aroojfaryad.carrd.co/) | 📧 faryad.qaisar@yahoo.com  
 
-[![LinkedIn](https://www.linkedin.com/in/aroojfaryad/)  
+[![LinkedIn](https://www.linkedin.com/in/aroojfaryad/)] 
 ---
 
 ## **🔭 Research Interests**  
@@ -40,8 +40,8 @@
 - **Martian Drainage Network Analysis** (University of Punjab)  
   - Used MOLA data and ArcGIS to model Martian surface hydrology.  
 
-### **💻 Open-Source Contributions**  
-*(Add links to GitHub repos if available!)*  
+%### **💻 Open-Source Contributions**  
+%*(Add links to GitHub repos if available!)*  
 
 ---
 
