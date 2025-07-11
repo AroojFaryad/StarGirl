@@ -1,11 +1,11 @@
-# 👋 Hi, I'm **Arooj Faryad**  
+#  Hi, I'm **Arooj Faryad**  
 ### **Astrophysics Researcher | Python & Data Science | Science Communicator**  
-📍 **Potsdam, Germany** | 🌐 [Website](https://aroojfaryad.carrd.co/) | 📧 faryad.qaisar@yahoo.com  
+ **Potsdam, Germany** |  [Website](https://aroojfaryad.carrd.co/) |  faryad.qaisar@yahoo.com  
 
-[![LinkedIn](https://www.linkedin.com/in/aroojfaryad/)] 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aroojfaryad/)
 ---
 
-## **🔭 Research Interests**  
+## ** Research Interests**  
 - Solar physics (Ellerman Bombs, Hα analysis)  
 - High-performance computing & numerical modeling  
 - Satellite image analysis (GIS, Python automation)  
@@ -13,7 +13,7 @@
 
 ---
 
-## **🛠️ Tech Stack**  
+## ** Tech Stack**  
 **Programming & Data Analysis**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)  
@@ -29,35 +29,35 @@
 
 ---
 
-## **📚 Publications & Projects**  
-### **📄 Publications**  
+## ** Publications & Projects**  
+### **Publications**  
 - **Kamlah et al. (2024)**: *Wide-field Image Restoration of G-band and Ca II K Images*  
 - **Faryad et al. (submitted)**: *Automatic Detection of Ellerman Bombs in Hα*  
 
-### **🔬 Research Projects**  
+### ** Research Projects**  
 - **Automatic Ellerman Bomb Detection** (Leibniz Institute for Astrophysics)  
   - Developed Python algorithms for solar event detection in Hα spectra.  
 - **Martian Drainage Network Analysis** (University of Punjab)  
   - Used MOLA data and ArcGIS to model Martian surface hydrology.  
 
-### **💻 Open-Source Contributions**  
+### ** Open-Source Contributions**  
 *(https://github.com/AroojFaryad/solar-qs-analyzer/tree/main)*  
 
 ---
 
-## **🏆 Awards & Outreach**  
+## ** Awards & Outreach**  
 - **Bachelor Scholarship** (University of Punjab, 2016)  
 - **Science Communicator**: Co-founded **P-STARS** to promote astronomy in Pakistan.  
 - **Speaker**: SOLARNET Conference (2023), EPIC Slovenia (2023).  
 
 ---
 
-## **📊 GitHub Stats**  
+## ** GitHub Stats**  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=nightowl)  
 
 ---
 
-## **🌍 Let’s Connect!**  
+## ** Let’s Connect!**  
 - **Email**: faryad.galsar@yahoo.com  
 - **Website**: [A.Faryad](https://aroojfaryad.carrd.co/)  
 - **Research Profiles**: [ORCID](https://www.researchgate.net/profile/Arooj-Faryad-2?ev=hdr_xprf)
